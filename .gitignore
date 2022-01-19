@@ -112,3 +112,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large files
+Thesis/data
+Thesis/embedding_models
+Thesis/models
+Thesis/plots
+Thesis/evaluation
+training_results/model.tar.gz
+training_results/robbert-v2-dutch-base-finetuned-model.7z
+training_results/test_texts_1.txt
+training_results/train_texts_1.txt
